@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student registration form</string>
+    <string name="lblDept">Department:</string>
+    <string name="lblMood">Your current mood:</string>
+    <string name="radioSIS">SIS</string>
+    <string name="radioCS">CS</string>
+    <string name="radioBIO">BIO</string>
+    <string name="radioOthers">Others</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="lblNameTag">Name:</string>
+    <string name="lblEmailTag">Email:</string>
+    <string name="lblDepartmentTag">Department:</string>
+    <string name="lblMoodTag">Mood:</string>
+    <string name="lblHeaderActivityTwo">Student Information</string>
+    <string name="btnSaveTag">Save</string>
+    <string name="errFill">Please make sure that all the fields are filled!</string>
+    <string name="errFill2">This field can not be blank!</string>
+    <string name="invalidEmail">Please enter a valid email address!</string>
+    <string name="lblEditTag">Edit Information</string>
+
+</resources>
